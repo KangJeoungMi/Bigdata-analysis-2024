@@ -54,7 +54,7 @@
 
 
 ##### VS Code 문제확인
-1. Jupyter Notebook 실행 속도 느려지는 문제
+1. Jupyter Notebook 실행 속도 느려지는 문제 -> pylance 충돌
     - Ctrl + ,(설정) > Jupyter > Logging: Level -> off or Verbose로 변경(debug 기본값)
 2. Intellisense로 느려짐
     - Ctrl + ,(설정) > TypeScript, Editor > Suggest 모두 해제
