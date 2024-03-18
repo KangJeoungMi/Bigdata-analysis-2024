@@ -42,5 +42,7 @@
         
 - 빅데이터 복습
  
-        
+## [7일차](https://github.com/KangJeoungMi/Bigdata-analysis-2024/blob/main/Day07.md)
+- 빅데이터 실습
+    -
         
