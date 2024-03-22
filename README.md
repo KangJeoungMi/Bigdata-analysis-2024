@@ -61,3 +61,9 @@
 ## [10일차](https://github.com/KangJeoungMi/Bigdata-analysis-2024/blob/main/Day10.md)
 - 빅데이터 실습
     - 통계 분석(와인품질) 리뷰 (완)
+
+## [11일차](https://github.com/KangJeoungMi/Bigdata-analysis-2024/blob/main/Day11.md)
+- 머신러닝 실습
+    - 회귀분석
+    - 환경에 따른 주택가격 예측
+    - 로지스틱회귀 분석
